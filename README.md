@@ -1,5 +1,7 @@
 # 🚀 Task Management System
 
+> **Live Demo:** [https://task-management-system-woad-seven.vercel.app/](https://task-management-system-woad-seven.vercel.app/) *(Backend API: Render)*
+
 A robust, full-stack Task Management System built using the MERN stack. Designed to help users efficiently organize, track, and gain visual insights into their daily tasks with a clean and responsive UI.
 
 ## 💻 Tech Stack
@@ -149,8 +151,8 @@ JWT_SECRET=your_super_secret_jwt_key
 
 ## 🚀 Deployment
 
-- **Frontend Live URL:** [Placeholder: Insert Vercel / Netlify Link Here]
-- **Backend API URL:** [Placeholder: Insert Render / Heroku Link Here]
+- **Frontend Live URL:** [https://task-management-system-woad-seven.vercel.app/](https://task-management-system-woad-seven.vercel.app/)
+- **Backend API URL:** [https://task-api-backend-4590.onrender.com](https://task-api-backend-4590.onrender.com)
 
 ---
 
